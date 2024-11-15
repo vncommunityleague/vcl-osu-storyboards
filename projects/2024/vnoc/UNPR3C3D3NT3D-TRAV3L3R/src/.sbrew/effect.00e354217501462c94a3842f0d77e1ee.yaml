@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "SystemText"
+Script: "SystemText"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  f45ae9e4a29645a5912fc8c434292e91:
+    Name: ""
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  7dd1038ac6a34d18a9687d66b86bbad1:
+    Name: "error"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

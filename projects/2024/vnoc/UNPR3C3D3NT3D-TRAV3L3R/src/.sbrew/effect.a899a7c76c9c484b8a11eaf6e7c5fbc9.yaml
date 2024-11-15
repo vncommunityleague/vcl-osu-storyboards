@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "BPMChangePartManager"
+Script: "BPMChangePartManager"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  ec0ab430faae4cd389cf22a965f3b1ce:
+    Name: ""
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  944d8ab048b347f9bffe7b10d311cfd3:
+    Name: "ring"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

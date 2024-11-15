@@ -1,0 +1,41 @@
+﻿FormatVersion: 7
+Name: "IntroPartManager"
+Script: "IntroPartManager"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  4c4742fe29c4431e9d0b9a18d32f837d:
+    Name: "unnamed-effect-1--solid"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  aaae97991ba942c7a3da0c5b5b1df828:
+    Name: "particles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  ea6333467c23456488f1398cce14af70:
+    Name: "unnamed-effect-1--circle"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  33c13d0cf814404ab96857b60ab148a6:
+    Name: "flashing-squares"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  3510c577f88b47f2bb2bbc755148e8d7:
+    Name: "unnamed-effect1--bar"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  ef3b51c22d3c49919bfd0603a34b6774:
+    Name: "logo"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

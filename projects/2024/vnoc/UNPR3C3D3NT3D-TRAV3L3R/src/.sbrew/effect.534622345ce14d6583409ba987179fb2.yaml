@@ -1,0 +1,21 @@
+﻿FormatVersion: 7
+Name: "MemeManager"
+Script: "MemeManager"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  d7a58a10b516488f8c2d01081f7caf8e:
+    Name: "hoaq-pog"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  cd69bcf8caf8462fb361d1b69ff86b85:
+    Name: "neuron-activation"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

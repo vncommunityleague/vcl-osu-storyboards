@@ -1,0 +1,106 @@
+﻿FormatVersion: 7
+Name: "BackgroundsManager"
+Script: "BackgroundsManager"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  acd7ffa955ab42058df316403a8d64a0:
+    Name: "delete-background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d9213674c44448a0a8fb0ac0e01a2a53:
+    Name: "cropping"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c4f612a5642f4c0e94f9d9fb68ad1da2:
+    Name: "intro"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  d7b8f2f27cc2442db615d5459adf80b1:
+    Name: "unnamed-background-1--solid"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  fc5d2fac83774a1186a19630994869e9:
+    Name: "moving-out-particles"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  e9cf18f9e0654008bf258cdb1a82b964:
+    Name: "moving-out-rays"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  f24142016a1244f0adafb3a48c12540d:
+    Name: "unnamed-background-1--circle"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  0f7bd74fc14441e5b114016a842d4bd3:
+    Name: "black-white-blur"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  32a39bd820ef40d3816629dd2d57c33d:
+    Name: "perspective-grid"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  845b0fb2024042feb1a04b292c9b6f8b:
+    Name: "spectrum"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  b48e833b077d4de39969c4798ebb19f2:
+    Name: "kiai-background"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  6eea1dbb88a84ea28f4131e395811dd4:
+    Name: "rotating-square"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  3f46de94d0c446538d4b169dbc4292de:
+    Name: "black-white-blur-without-character"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  dbd9932d07614907822099c316172af2:
+    Name: "blur-without-character"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  28ee99de4afd4b948f5f93a376ddcbc7:
+    Name: "radial-blur"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  db5fe3af5f6a4af3ad075d09c38b82c0:
+    Name: "credits"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  673df9143af04decb671d1fe56433d16:
+    Name: "main"
+    OsbLayer: Background
+    DiffSpecific: No
+    Visible: Yes
+  c9699a5b89a8455f8f5a5378b1fa719b:
+    Name: "character"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c75a2fd6b9ea4411b25e87b0ba92aa2c:
+    Name: "fill-in-pixel"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

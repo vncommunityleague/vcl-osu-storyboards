@@ -1,0 +1,101 @@
+﻿FormatVersion: 7
+Name: "TransitionsManager"
+Script: "TransitionsManager"
+Multithreaded: No
+Config:
+  RandomSeed:
+    Type: "System.Int32"
+    Value: "0"
+    DisplayName: "Random Seed"
+    BeginsGroup: "Common"
+Layers:
+  508fab48cf694044af3eda2ad06e081b:
+    Name: "unnamed transition 2"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  84b4aad4e48b4af0a96864efdf453add:
+    Name: "transition-4"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  24503acfb59c4b6b875bb69606805f36:
+    Name: "split-scale-close-updown"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  ffeefe71a9134a6b864a73c28d0a3a00:
+    Name: "box-expand"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  b2201b61ed2b4a46b444878c2a8d1433:
+    Name: "split-closing-horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  f4f0d9ee1172494789de1ff3ff3aef30:
+    Name: "split-up-transition"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  bbcdadda05bb4f79b516c4fe4b554258:
+    Name: "split-scale-close-leftright"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  78321c33ab9745eeb79a96ab09f2d02c:
+    Name: "slide-closing-horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  9c661b15e60c4d8b9079f25b35a611fb:
+    Name: "rotated-slide-closing-horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  6c2740739d814634a6a2214de9a8c0c1:
+    Name: "flash"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  87900a5aa45f4df894088ed4d33846d8:
+    Name: "diagonal-split-open"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  c0432e121e3247d388abc55f6b3e50c7:
+    Name: "interlaced-diagonal-close"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  7ce757ef663d434fa45336603714f0fc:
+    Name: "funky-part-1"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  b4573d9e473f44d8bf434bb7ca779694:
+    Name: "square-closing"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  49c02649f21b460e92af2ab3e6e48947:
+    Name: "blackout"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  a7dfc9a5072049888c4f3ec57e90671c:
+    Name: "split-scale-close-horizontal"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  572547ba168345e7ba978fe833f8604a:
+    Name: "pre-kiai-transition-1"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes
+  620f6469a614482cae6713c0df50227b:
+    Name: "whiteout"
+    OsbLayer: Foreground
+    DiffSpecific: No
+    Visible: Yes

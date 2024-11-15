@@ -1,3 +1,9 @@
+.sbrew/user.yaml
+.sbrew.tmp
+.sbrew.bak
+.cache
+.vs
+
 ### JetBrains
 
 # User-specific stuff

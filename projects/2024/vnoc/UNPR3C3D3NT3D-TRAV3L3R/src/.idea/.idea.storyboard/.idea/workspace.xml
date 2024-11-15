@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e79e66bf-8b75-4b5d-86f9-54d2f5866289" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/git_toolbox_blame.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-ExtraBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-ExtraBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-ExtraLightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-SemiBoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/BeVietnamPro-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Figerona-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Raleway-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Raleway-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-Bold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-Heavy.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-Light.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-Regular.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-SemiBold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/Torus-Thin.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.storyboard/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.0da4df87248144f58f119a577a204261.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/effect.0da4df87248144f58f119a577a204261.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.96cda8f6201d41e1a1fc8322cc0ac5af.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/effect.96cda8f6201d41e1a1fc8322cc0ac5af.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.9837bae738f7421998e61a86bc6cdaf9.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/effect.9837bae738f7421998e61a86bc6cdaf9.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.9db366fe990845dc99aa7bec8f075226.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/effect.9db366fe990845dc99aa7bec8f075226.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.b9a59c56fb0340ffaebee6d63994c076.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/effect.c05940146f114d06944cd5826f030a42.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/effect.c05940146f114d06944cd5826f030a42.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.sbrew/index.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.sbrew/index.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackgroundsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BackgroundsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreditsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CreditsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DeleteBackground.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ParticlesManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ParticlesManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TransitionsManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/TransitionsManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vignette.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vignette.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/scripts.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scriptslibrary/Constant.cs" beforeDir="false" afterPath="$PROJECT_DIR$/scriptslibrary/Constant.cs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;munehime&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:munehime/UNPR3C3D3NT3D-TRAV3L3R.git&quot;,
+    &quot;accountId&quot;: &quot;a2568257-213d-497b-923c-ff582c2bf41c&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2d9f94b36d2f74758ec3ea15ecec2fcba2bfa5d56779bf4adce47660e763e691/OsbSprite.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5af8b9875defc2ae93882ea32473fbe14ba1e76a69eb656afba397831857fb2/OsbSpritePool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/c188625deb5f4d3e1ddcac74ec60d24ca6c56d815ac05d73df63aaf03bf3c72a/CommandColor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/dc5736aaded344e936161c19fb282c7fefa982f171531cf0d243d9a750a2a9/StoryboardObjectGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(.WIP - Solo) Exit This Earths Atomosphere/WorldMap.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Collab) Glacierfall/Credits.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Collab) Glacierfall/TitleGlitch.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Collab) Orca/Credits.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Collab) Orca/HitObjectsHightlights.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/Credits.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/HitObjectsHighlights.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/Intro.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/PartOf.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/Particles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/Spectrum.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) AlterStrife/Transitions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) Manten/HitobjectsHightlight.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Finished - Solo) xi - Songs Compilation/ExplodingParticles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) Kroytz---Tenkai-he-no-Kippu-master/MainStoryboard.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) SkyshifterOSB-master/CreditsManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) SkyshifterOSB-master/IntroductionHC.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) SkyshifterOSB-master/MultipleBackground.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) SkyshifterOSB-master/StoryboardManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../(Others Works - Coppertine) SkyshifterOSB-master/TransitionsManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Kagetora - The enormous/Backgrounds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Kagetora - The enormous/HitObjectsHighlights.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Kagetora - The enormous/Particles.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Kagetora - The enormous/Transitions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Shokii - Eterna/Transitions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../scripts/Particles.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../scripts/Spectrum.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="Toolset" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2lLEdApYb7g4zq1J1FekVC5rEAc" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e79e66bf-8b75-4b5d-86f9-54d2f5866289" name="Changes" comment="" />
+      <created>1724951041433</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724951041433</updated>
+      <workItem from="1724951042734" duration="343000" />
+      <workItem from="1725804536657" duration="116000" />
+      <workItem from="1725804694656" duration="12119000" />
+      <workItem from="1725855420492" duration="17922000" />
+      <workItem from="1725983641373" duration="8653000" />
+      <workItem from="1726024582617" duration="36592000" />
+      <workItem from="1726110622552" duration="5687000" />
+      <workItem from="1726131812099" duration="96000" />
+      <workItem from="1726169792828" duration="39000" />
+      <workItem from="1726188989468" duration="795000" />
+      <workItem from="1726716178378" duration="775000" />
+      <workItem from="1726718109548" duration="37000" />
+      <workItem from="1726718159843" duration="221000" />
+      <workItem from="1726718400456" duration="289000" />
+      <workItem from="1726719455515" duration="601000" />
+      <workItem from="1727120128793" duration="1072000" />
+      <workItem from="1727154918587" duration="18625000" />
+      <workItem from="1727197688436" duration="8507000" />
+      <workItem from="1727245260843" duration="3122000" />
+      <workItem from="1727266854453" duration="17763000" />
+      <workItem from="1727331508287" duration="6908000" />
+      <workItem from="1727410851995" duration="24695000" />
+      <workItem from="1727492709053" duration="17199000" />
+      <workItem from="1727538932402" duration="922000" />
+      <workItem from="1727546067795" duration="3139000" />
+      <workItem from="1727690244706" duration="6996000" />
+      <workItem from="1727753194983" duration="25366000" />
+      <workItem from="1727798511266" duration="2148000" />
+      <workItem from="1728466444680" duration="96000" />
+      <workItem from="1728466568997" duration="4212000" />
+      <workItem from="1728489096009" duration="596000" />
+      <workItem from="1730227616662" duration="516000" />
+      <workItem from="1731075677854" duration="5930000" />
+      <workItem from="1731341504025" duration="131000" />
+      <workItem from="1731397602943" duration="5184000" />
+      <workItem from="1731649407494" duration="108000" />
+      <workItem from="1731651886740" duration="104000" />
+      <workItem from="1731652006681" duration="30000" />
+      <workItem from="1731652047933" duration="1554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
