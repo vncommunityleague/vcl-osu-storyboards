@@ -11,3 +11,7 @@
 - [Sad Keyboard Guy, sleepless & Myntian - Alter//Strife feat. vally.exe](https://github.com/vncommunityleague/vcl-osu-storyboards/tree/main/projects/2022/vnoc/AlterStrife)
 
   [![image](https://raw.githubusercontent.com/vncommunityleague/vcl-osu-storyboards/main/assets/images/storyboards/1881706/index.png)](https://github.com/vncommunityleague/vcl-osu-storyboards/tree/main/projects/2022/vnoc/AlterStrife)
+
+- [Kagetora. - UNPR3C3D3NT3D TRAV3L3R](https://github.com/vncommunityleague/vcl-osu-storyboards/tree/main/projects/2024/vnoc/UNPR3C3D3NT3D-TRAV3L3R)
+
+  [![image](https://raw.githubusercontent.com/vncommunityleague/vcl-osu-storyboards/main/assets/images/storyboards/2258410/index.jpg)](https://github.com/vncommunityleague/vcl-osu-storyboards/tree/main/projects/2024/vnoc/UNPR3C3D3NT3D-TRAV3L3R)
